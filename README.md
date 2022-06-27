@@ -5,4 +5,4 @@ Previews included
 1: https://imgur.com/a/9qJhJyw
 2: https://imgur.com/a/6EbQraS
 
-Install: For ease of access reasons the .exe is a standalone exe meaning you dont need to download the data folder.
+Install: For ease of access reasons the .exe is a standalone exe meaning you dont need to download the data folder (so i removed data folder - mostly to prevent duplication of this project)
