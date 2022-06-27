@@ -4,3 +4,5 @@ NitroNets Direct Connect Launcher (supports NITRONET fivem and every other serve
 Previews included
 1: https://imgur.com/a/9qJhJyw
 2: https://imgur.com/a/6EbQraS
+
+Install: For ease of access reasons the .exe is a standalone exe meaning you dont need to download the data folder.
